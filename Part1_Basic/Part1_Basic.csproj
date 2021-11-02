@@ -13,6 +13,33 @@
     <Compile Remove="005_ConsoleWriteLine.cs" />
     <Compile Remove="006_ConsoleWriteMulti.cs" />
     <Compile Remove="007_VariablesAndWrite.cs" />
+    <Compile Remove="008_ConsoleFormat.cs" />
+    <Compile Remove="009_FormatSpecifier.cs" />
+    <Compile Remove="010_FloatDoubleDecimal.cs" />
+    <Compile Remove="011_TypeConversion.cs" />
+    <Compile Remove="012_StringToNumber.cs" />
+    <Compile Remove="013_Convert.cs" />
+    <Compile Remove="014__Operators.cs" />
+    <Compile Remove="015_ArithmeticOperators.cs" />
+    <Compile Remove="016_DivideByZero.cs" />
+    <Compile Remove="017_Overflow.cs" />
+    <Compile Remove="018_RelationalOperators.cs" />
+    <Compile Remove="019_LogicalOperators.cs" />
+    <Compile Remove="020_BitwiseOperators.cs" />
+    <Compile Remove="021_ConditionalOperator.cs" />
+    <Compile Remove="022_CompoundAssignment.cs" />
+    <Compile Remove="023_StringMethods.cs" />
+    <Compile Remove="024_SplitMethod.cs" />
+    <Compile Remove="025_StringConcat.cs" />
+    <Compile Remove="026_StringContains.cs" />
+    <Compile Remove="027_StringFormat.cs" />
+    <Compile Remove="028_GroupSeparator.cs" />
+    <Compile Remove="029_StringBuilder.cs" />
+    <Compile Remove="030_Enum.cs" />
+    <Compile Remove="031_ConstAndReadonly.cs" />
+    <Compile Remove="032_ValueAndReference.cs" />
+    <Compile Remove="033_PassingArrayAndObject.cs" />
+    <Compile Remove="034_NullConditionalOperator.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -27,6 +54,33 @@
     <None Include="005_ConsoleWriteLine.cs" />
     <None Include="006_ConsoleWriteMulti.cs" />
     <None Include="007_VariablesAndWrite.cs" />
+    <None Include="008_ConsoleFormat.cs" />
+    <None Include="009_FormatSpecifier.cs" />
+    <None Include="010_FloatDoubleDecimal.cs" />
+    <None Include="011_TypeConversion.cs" />
+    <None Include="012_StringToNumber.cs" />
+    <None Include="013_Convert.cs" />
+    <None Include="014__Operators.cs" />
+    <None Include="015_ArithmeticOperators.cs" />
+    <None Include="016_DivideByZero.cs" />
+    <None Include="017_Overflow.cs" />
+    <None Include="018_RelationalOperators.cs" />
+    <None Include="019_LogicalOperators.cs" />
+    <None Include="020_BitwiseOperators.cs" />
+    <None Include="021_ConditionalOperator.cs" />
+    <None Include="022_CompoundAssignment.cs" />
+    <None Include="023_StringMethods.cs" />
+    <None Include="024_SplitMethod.cs" />
+    <None Include="025_StringConcat.cs" />
+    <None Include="026_StringContains.cs" />
+    <None Include="027_StringFormat.cs" />
+    <None Include="028_GroupSeparator.cs" />
+    <None Include="029_StringBuilder.cs" />
+    <None Include="030_Enum.cs" />
+    <None Include="031_ConstAndReadonly.cs" />
+    <None Include="032_ValueAndReference.cs" />
+    <None Include="033_PassingArrayAndObject.cs" />
+    <None Include="034_NullConditionalOperator.cs" />
   </ItemGroup>
 
 </Project>
