@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="001_Console.cs" />
+    <Compile Remove="002_Variable.cs" />
+    <Compile Remove="003_string.cs" />
+    <Compile Remove="004_Assignment.cs" />
+    <Compile Remove="005_ConsoleWriteLine.cs" />
+    <Compile Remove="006_ConsoleWriteMulti.cs" />
+    <Compile Remove="007_VariablesAndWrite.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="006_ConsoleWriteMulti.cs~RF793d7e.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="001_Console.cs" />
+    <None Include="002_Variable.cs" />
+    <None Include="003_string.cs" />
+    <None Include="004_Assignment.cs" />
+    <None Include="005_ConsoleWriteLine.cs" />
+    <None Include="006_ConsoleWriteMulti.cs" />
+    <None Include="007_VariablesAndWrite.cs" />
+  </ItemGroup>
+
+</Project>
