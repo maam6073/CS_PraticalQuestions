@@ -40,6 +40,7 @@
     <Compile Remove="032_ValueAndReference.cs" />
     <Compile Remove="033_PassingArrayAndObject.cs" />
     <Compile Remove="034_NullConditionalOperator.cs" />
+    <Compile Remove="035_Default.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -81,6 +82,7 @@
     <None Include="032_ValueAndReference.cs" />
     <None Include="033_PassingArrayAndObject.cs" />
     <None Include="034_NullConditionalOperator.cs" />
+    <None Include="035_Default.cs" />
   </ItemGroup>
 
 </Project>
